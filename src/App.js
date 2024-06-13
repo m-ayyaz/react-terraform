@@ -17,8 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hello vaultspay</h1>
       </header>
-      <h1>Hello vaultspay</h1>
+      
     </div>
   );
 }
